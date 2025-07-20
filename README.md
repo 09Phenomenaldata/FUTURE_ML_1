@@ -18,6 +18,7 @@ Scikit-learn – for model evaluation (MAE)
 Google Colab – development environment
 
 📈 Features
+
 🔮 Time series forecasting using Prophet
 
 📊 Decomposition of trend and seasonality
@@ -29,6 +30,7 @@ Google Colab – development environment
 📷 Visual dashboard with plots for trends and predictions
 
 📊 Output
+
 60-day forecast of synthetic retail sales
 
 Performance Metric:
@@ -46,6 +48,7 @@ Trend & seasonality components
 Actual vs predicted sales comparison
 
 📂 Files
+
 Sales_Forecasting_Task1.ipynb – Full implementation notebook
 
 README.md – This project documentation
